@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container-app{
+    display: flex;
+    content: icon;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.create_level{
+    margin-top: 200px;
+    margin-left: 350px;
+}
